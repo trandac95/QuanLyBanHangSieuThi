@@ -34,6 +34,24 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\Dll_Cty\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DPS Common">
+      <HintPath>..\..\Dll_Cty\DPS Common.dll</HintPath>
+    </Reference>
+    <Reference Include="DPS Connection Skin">
+      <HintPath>..\..\Dll_Cty\DPS Connection Skin.dll</HintPath>
+    </Reference>
+    <Reference Include="DPS MessageBox Skin">
+      <HintPath>..\..\Dll_Cty\DPS MessageBox Skin.dll</HintPath>
+    </Reference>
+    <Reference Include="DPS Registry">
+      <HintPath>..\..\Dll_Cty\DPS Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="DPS Smart Control">
+      <HintPath>..\..\Dll_Cty\DPS Smart Control.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>

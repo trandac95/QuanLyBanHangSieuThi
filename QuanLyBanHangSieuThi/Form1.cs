@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace QuanLyBanHangSieuThi
 {
-    public partial class Form1 : Form
+    public partial class FrmMain : DevComponents.DotNetBar.Office2007RibbonForm
     {
-        public Form1()
+        public FrmMain()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
